@@ -3,7 +3,8 @@ def speak_to_grandma(string)
   puts "NO, NOT SINCE 1938!"
   elsif string.downcase
   puts "HUH?! SPEAK UP, SONNY!"
-  elsif string=="I L"
+  elsif string=="I LOVE YOU GRANDMA!"
+  puts ""
 end 
 
 
